@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-learn
+joblib
+pydantic
+# Tip: pin scikit-learn (and any other training libs, e.g. xgboost/lightgbm)
+# to the SAME versions you trained with, e.g. scikit-learn==1.5.2
