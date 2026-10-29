@@ -1,9 +1,7 @@
-fastapi
-uvicorn[standard]
-pandas
-numpy
-scikit-learn
-joblib
-pydantic
-# Tip: pin scikit-learn (and any other training libs, e.g. xgboost/lightgbm)
-# to the SAME versions you trained with, e.g. scikit-learn==1.5.2
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+pandas>=2.2,<3.0
+numpy>=1.26,<3.0
+scikit-learn==1.6.1
+joblib>=1.3,<2.0
+xgboost>=2.0,<4.0
