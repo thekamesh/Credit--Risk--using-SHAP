@@ -441,21 +441,8 @@ The main objectives of this project are:
 
 ---
 
-## 🔮 Future Improvements
 
-Possible improvements include:
 
-- User authentication
-- Database integration
-- Prediction history
-- Advanced SHAP visualizations
-- Model monitoring
-- Data drift detection
-- Automated retraining
-- Docker deployment
-- Cloud database integration
-- More advanced risk scoring
-- Admin dashboard
 
 ---
 
